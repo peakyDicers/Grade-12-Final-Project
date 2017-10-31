@@ -1,7 +1,8 @@
 # Batman: Project Mayhem 2016 #
 ![screenshot_211](https://user-images.githubusercontent.com/16856101/31992251-c6ccaeec-b947-11e7-9414-39a18b8553e9.png)
 
-
+### Check out the game play ###
+ * https://www.youtube.com/watch?v=Gotz_0lxPBA&ab_channel=IanChui
 
 ### How do I get set up? ###
 

@@ -14,7 +14,7 @@ namespace Project_Mayhem
 {
     class AIEnemy:CharacterSprite //Created By: Nick Geofroy Dimentions: 60x70
     {
-        //=================================================================Fields=============================================================
+        //================================================================Fields=============================================================
         
         //Booleans for the two 'states'
         bool isAttacking = false;
